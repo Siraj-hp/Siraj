@@ -156,8 +156,8 @@ motto: "Building reliable systems that power innovation"
       <img src="https://img.shields.io/badge/Score-64%25-success?style=flat-square" alt="Score"/>
       <img src="https://img.shields.io/badge/Elite-Performer-gold?style=flat-square" alt="Elite"/>
       <br><br>
-      <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs57/Course/NPTEL25CS57S114700213804424455.pdf">
-        <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=flat-square&logo=pdf" alt="Certificate"/>
+      <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs57/Course/NPTEL25CS57S114700213804424455.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=flat-square&logo=adobeacrobatreader" alt="Certificate"/>
       </a>
     </td>
     <td align="center" width="50%">
