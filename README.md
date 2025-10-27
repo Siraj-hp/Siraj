@@ -55,12 +55,12 @@
 ### 🌟 Key Highlights
 
 ```yaml
-role: Computer Science Student & Cloud Engineer
-location: Hyderabad, Telangana, India
-expertise: [AWS Cloud, Python Automation, AI Integration]
+role:          Computer Science Student & Cloud Engineer
+location:      Hyderabad, Telangana, India
+expertise:     [AWS Cloud, Python Automation, AI Integration]
 learning_path: AWS Certified Cloud Practitioner → Solutions Architect
-passion: Designing and deploying scalable cloud infrastructure
-motto: "Building reliable systems that power innovation"
+passion:       Designing and deploying scalable cloud infrastructure
+motto:         "Building reliable systems that power innovation"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
